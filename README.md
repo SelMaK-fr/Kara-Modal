@@ -4,6 +4,9 @@ Kara allows to set up a simple modal system (without jQuery), accessible and com
 [French] 
 Kara permet de mettre en place un système de modale simple (sans jQuery), accessible et compatible avec la navigation au clavier.
 
+#### Démonstration
+[Démo Kara Modal Box](https://src.yann-cario.fr/demo/kara)
+
 # Use  
 Load Kara's CSS style (before closing the head tag)  
 ```html
@@ -32,5 +35,3 @@ After loading animate.css, add the animated class followed by the desired animat
 ```html
 <div class="modal-wrapper animated swing js-kara-modal-stop">
 ```
-
-
