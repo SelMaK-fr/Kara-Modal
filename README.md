@@ -32,4 +32,3 @@ After loading animate.css, add the animated class followed by the desired animat
 ```html
 <div class="modal-wrapper animated swing js-kara-modal-stop">
 ```
-
