@@ -21,13 +21,12 @@ button{border:0}
 }
 
 .modal-wrapper{
-    background-color:#FFF;
     width:600px;
     max-width: calc(100vw - 20px);
     max-height: calc(100vh - 20px);
     overflow: auto;
     border-radius:6px;
-    border:8px solid rgba(0, 0, 0, 0.70);
+    border:8px solid rgba(0, 0, 0, 0.30);
     animation: slideFromTop .3s both;
 }
 
@@ -36,6 +35,7 @@ button{border:0}
 }
 
 .modal-content, .modal-footer{
+    background-color:#FFF;
     padding:20px;
 }
 .modal-header{
