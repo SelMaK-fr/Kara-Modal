@@ -1,3 +1,6 @@
+/**
+ * Source : http://www.grafikart.fr
+ */
 /* Variable modal */
 let modal = null
 /* Selecteur du focus */
